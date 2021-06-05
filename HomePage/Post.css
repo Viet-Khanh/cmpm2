@@ -1,0 +1,28 @@
+.intro {
+    color: black;
+    font-size: 23px;
+    margin-left: 25px;
+}
+
+.name-product {
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px 30px;
+}
+
+.input {
+    width: 800px;
+}
+.describe {
+    display: flex;
+    margin: 10px 30px;
+}
+.category {
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px 30px;
+}
+.form-group {
+    display: flex;
+    margin: 10px 30px;
+}

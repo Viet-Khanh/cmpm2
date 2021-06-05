@@ -1,0 +1,31 @@
+.main-bar {
+    display: flex;
+    margin-left: 60px;
+    align-content: center;
+    margin-top: 30px;
+    background-color: thistle;
+    max-width: 46%;
+    height: 40px;
+    border-radius: 5px;
+}
+.btn-danger {
+    margin: 0 5px;
+}
+.btn-light {
+    margin: 0 5px;
+}
+.form-group {
+    margin-left: 30px;
+    text-align: center;
+}
+.extra {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+    background-color: wheat;
+    max-width: 864px;
+    border-radius: 5px;
+}
